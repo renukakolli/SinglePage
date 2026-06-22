@@ -1,2 +1,2 @@
 # SinglePage
-my info
+my info infomation added in this file.
