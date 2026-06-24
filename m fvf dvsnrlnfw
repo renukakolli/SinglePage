@@ -1,0 +1,71 @@
+[33mcommit 12677affeb4276c98c729a11fa04b680aed5f29c[m[33m ([m[1;36mHEAD -> [m[1;32mbranch1[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/branch1[m[33m, [m[1;32mmain[m[33m)[m
+Author: renukakolli <renukakolli33@gmail.com>
+Date:   Wed Jun 24 18:07:23 2026 +0530
+
+    merged suceessfully
+
+[33mcommit e3de98581ead4f14d5450f2a6f66c2e1f180eefb[m
+Merge: 25f3ef5 1701111
+Author: renukakolli <renukakolli33@gmail.com>
+Date:   Wed Jun 24 17:58:17 2026 +0530
+
+    Merge branch 'main' into branch1
+
+[33mcommit 25f3ef5c3339ecc99e02af9bb9918a911138b9e6[m
+Author: renukakolli <renukakolli33@gmail.com>
+Date:   Wed Jun 24 17:54:29 2026 +0530
+
+    added updated home page
+
+[33mcommit 170111130dcb51670c33ae308fd8827f11cfc9b3[m
+Merge: 235fe98 4f3f1af
+Author: renukakolli <87983164+renukakolli@users.noreply.github.com>
+Date:   Wed Jun 24 17:34:22 2026 +0530
+
+    Merge pull request #1 from renukakolli/branch1
+    
+    added loginpage
+
+[33mcommit 4f3f1afb8697108800783c32b595cc31f6095f27[m[33m ([m[1;31morigin/branch2[m[33m, [m[1;32mbranch2[m[33m)[m
+Author: renukakolli <renukakolli33@gmail.com>
+Date:   Wed Jun 24 17:12:53 2026 +0530
+
+    added loginpage
+
+[33mcommit 235fe986778625cc0a3050d47c224d0b3beb78d6[m
+Author: renukakolli <renukakolli33@gmail.com>
+Date:   Tue Jun 23 21:57:05 2026 +0530
+
+    added home.html file
+
+[33mcommit 0f7fdad6f9c1e176ddb133f1f46e06336c28d7d6[m
+Author: renukakolli <renukakolli33@gmail.com>
+Date:   Tue Jun 23 21:32:52 2026 +0530
+
+    added test.html file
+
+[33mcommit f33a84de63b7bc65085e0d109cf86660157209d3[m
+Author: renukakolli <renukakolli33@gmail.com>
+Date:   Tue Jun 23 09:26:53 2026 +0530
+
+    added test.html file
+
+[33mcommit 5063cb67da27c71148f389acdfcc9b6e8bdd4963[m
+Author: Kolli Renuka <ko20287331@wipro.com>
+Date:   Tue Jun 23 09:16:45 2026 +0530
+
+    added test.html
+
+[33mcommit 341605e1c6f40cf5ec042dbc31a1baded4f98bf8[m
+Author: renukakolli <87983164+renukakolli@users.noreply.github.com>
+Date:   Tue Jun 23 05:16:20 2026 +0530
+
+    Added about loginpage
+    
+    I have added new buttons and changed colors
+
+[33mcommit a80651194321d187ede0758205809010eaa08e23[m
+Author: renukakolli <87983164+renukakolli@users.noreply.github.com>
+Date:   Tue Jun 23 05:00:25 2026 +0530
+
+    Initial commit
